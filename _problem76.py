@@ -1,0 +1,2 @@
+def ways(num):
+	

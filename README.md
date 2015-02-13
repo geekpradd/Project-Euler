@@ -1,3 +1,5 @@
+##Project Euler in Python
+
 This repository includes all my project euler code files. You can check them out but I recommend trying the problem first and if you ultimately can't solve them, then check the files out.
 
 I have solved 23 problems and I am gradually solving more. There are only 19 files here that have been solved, the rest 4 are somewhere stored in my machine (these are the ones that were very easy and I solved them first approx 5 months ago).
